@@ -1,0 +1,23 @@
+{
+  "name": "maaseichanode",
+  "version": "1.0.0",
+  "description": "This is a test",
+  "main": "src/index.js",
+  "scripts": {
+    "crear": "node src/index.js",
+    "ordenar": "node src/ordenar.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "live-code",
+    "semillero",
+    "nodejs",
+    "npm",
+    "init"
+  ],
+  "author": "Marco Aseicha",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
